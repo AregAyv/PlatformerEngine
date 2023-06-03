@@ -1,6 +1,6 @@
 # PlatformerEngine
 
-A platformer game engine written in C++ using the SFML (Simple and Fast Multimedia Library).
+A platformer game engine written in C++ using the SFML.
 
 Introduction
 The PlatformerEngine is a C++ framework built using SFML, designed to simplify the development of 2D platformer games. It provides essential functionalities and tools for creating player-controlled characters, 
@@ -10,7 +10,7 @@ Features
 1)Player movement and physics simulation
 2)Collision detection and response
 3)Sprite rendering and animation
-3)Input handling (keyboard)
+3)Input handling (keyboard only)
 
 Installation
 To use the PlatformerEngine, follow these steps:
